@@ -123,7 +123,6 @@ aliases = {
     # cp437 codec
     '437'                : 'cp437',
     'cspc8codepage437'   : 'cp437',
-    'ibm437'             : 'cp437',
 
     # cp500 codec
     '500'                : 'cp500',
